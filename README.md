@@ -57,7 +57,8 @@ in:inbox from:contact@wemakedevs.org
 ```
 
 <!-- SCREENSHOT 2: Save as screenshots/joe-email-search.png -->
-![Joe showing results for a hackathon-related Gmail search](screenshots/joe-email-search.png)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e52d97d4-8cb2-424c-88f0-9f3789044e5b" />
+
 *Joe searches for hackathon-related messages and returns matching metadata.*
 
 ### 3. Prioritize what deserves attention
@@ -69,7 +70,8 @@ Joe can identify messages that *appear* actionable—such as a pending registrat
 Given a sender and subject, Joe can suggest a reply and explicitly label it **Proposed draft**. In our demonstration, Joe drafted a response asking the WeMakeDevs team about the next steps for the hackathon, without pretending to have read the email body.
 
 <!-- SCREENSHOT 3: Save as screenshots/joe-reply-drafting.png -->
-![Joe proposing a professional email reply](screenshots/joe-reply-drafting.png)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/dff14d00-c093-40ee-80fd-58dbc04c6ee6" />
+
 *Joe prepares a proposed reply for review; no email is sent.*
 
 ### 5. Refine the draft conversationally
@@ -77,7 +79,8 @@ Given a sender and subject, Joe can suggest a reply and explicitly label it **Pr
 Ask Joe to make a draft shorter, friendlier, or more formal. Joe revises the text in the room while preserving the no-send boundary.
 
 <!-- SCREENSHOT 4: Save as screenshots/joe-reply-refinement.png -->
-![Joe refining a draft after user feedback](screenshots/joe-reply-refinement.png)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f03da544-4008-4adc-b02e-047c0d1950ee" />
+
 *The user requests a shorter, friendlier version; Joe provides an updated draft.*
 
 ### 6. Work inside a collaborative room
@@ -85,8 +88,8 @@ Ask Joe to make a draft shorter, friendlier, or more formal. Joe revises the tex
 Joe participates in a **Joe Email Operations** room bridged to Mattermost through Switch Console. The room provides a visible conversation and a place to review Joe's suggestions. It is **Mattermost, not Discord**; Discord is not required for the current implementation.
 
 <!-- SCREENSHOT 5: Save as screenshots/joe-mattermost-room.png -->
-![Joe Email Operations room in Switch Console](screenshots/joe-mattermost-room.png)
-*Joe operates in a Mattermost-backed room in Switch Console.*
+
+
 
 ## How it works
 
