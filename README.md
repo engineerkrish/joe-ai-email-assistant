@@ -14,7 +14,8 @@ Built for the **Flip the Switch Hackathon**. This is a local prototype, not a ho
 | Interface | Switch Console → **Joe Email Operations** (local Mattermost room) |
 
 <!-- SCREENSHOT 1: Save your screenshot as screenshots/joe-email-dashboard.png -->
-![Joe displaying recent Gmail messages and their priorities](screenshots/joe-email-dashboard.png)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/12ad01df-f398-4fd8-a223-65f1fce48fc2" />
+
 *Joe reviews recent Gmail messages and highlights which subjects appear to require attention.*
 
 ## Why Joe?
