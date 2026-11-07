@@ -306,7 +306,7 @@ A short demo can show the entire working flow:
 5. Ask for a shorter, friendlier version.
 6. Highlight that no email was sent, modified, or deleted.
 
-**Demo video:** Coming soon — add link here.
+**Demo video:** https://youtu.be/Q9CcvPKpbho?si=nPijEHnojp19_5Vh
 
 ## Project status
 
