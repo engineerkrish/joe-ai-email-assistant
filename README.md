@@ -9,8 +9,8 @@ Built for the **Flip the Switch Hackathon**. This is a local prototype, not a ho
 | Resource | Link |
 | --- | --- |
 | Source code | [GitHub repository](https://github.com/engineerkrish/joe-ai-email-assistant) |
-| Demo video | **Coming soon — add link** |
-| Project article | **Coming soon — add link** |
+| Demo video | https://youtu.be/Q9CcvPKpbho?si=nPijEHnojp19_5Vh
+| Project article | https://dev.to/krishna_chaudhary_53d52cb/my-inbox-has-99-problems-joe-aint-one-11ag
 | Interface | Switch Console → **Joe Email Operations** (local Mattermost room) |
 
 <!-- SCREENSHOT 1: Save your screenshot as screenshots/joe-email-dashboard.png -->
